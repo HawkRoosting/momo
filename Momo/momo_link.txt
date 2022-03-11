@@ -1,1 +1,1 @@
-https://www.maimemo.com/share/amway/wechatbind_user=0&create_user=0&uid=18211240&sid=5cefa146158551b5cd156e6642196ca3&oauth=wechat_wx6a4680fa1ef1b496&unionid=o6IDit6ImuyUVwxyFUkyVknM3FLU&token=de4c975f669a21ce306341c4507df4a3eefede69cb058f54ab05c63ee8dffa75&expired_time=2023-03-08T19:38:19+08:00
+https://www.maimemo.com/share/page?uid=18211240&pid=bbe8ec889ebf4637195395493f0bf363&tid=f3f7a936fbd9ea11e8103fb7a1b2ed3f
