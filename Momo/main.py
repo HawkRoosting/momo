@@ -77,7 +77,7 @@ async def page(page_source):
         print('访问失败! 页面无此元素。')
 
 
-def main():
+def main_handler():
     link = share_Link()  # 读取文件里的墨墨分享链接
     print("访问链接:", link)
     ip_main()  # 抓取代理
